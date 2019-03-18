@@ -6,4 +6,6 @@ quick & simple
 =======
 Creating a new branch is quick and simple.
 987654
+1357
+hello
 >>>>>>> feature1
